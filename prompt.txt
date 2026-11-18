@@ -1,0 +1,52 @@
+I want to create a website for a business called Tipon Electric, Inc.
+
+The company address:
+
+Tipon Electric, Inc.
+44 Ramsey Road
+Ligonier, PA 15658
+
+Phone: 724-238-1883
+Email: info@tiponelectric.net
+
+Company Overview
+  • Operating since 1997
+  • Pennsylvania Licensed Contractor
+  • Fully Insured
+  • Residential, Commercial, and Industrial Electrical Contracting
+
+Industries Served
+  • Natural Gas Companies
+  • Stone Quarries
+  • Concrete Plants
+  • Asphalt Plants
+  • Water Authorities
+
+Specialized Equipment & Services
+  • Bucket Truck Services
+  • Thermal studies with infrared camera
+
+Services Provided
+  • Automations
+  • MCC and PLC Upgrades
+  • New Services
+  • Wire New Homes
+  • Troubleshoot/Repairs
+  • 24/7 Emergency Services (Industrial Only)
+
+Employee Benefits
+  • Medical, Dental, and Vision Insurance
+  • 401(k) Retirement Plan with Employee and Company Contributions
+  • Vacation
+  • Paid Holidays
+  • Opportunity to Earn Additional Paid Time Off (PTO)
+  • Uniforms Provided
+
+Employment Opportunities Section
+  • A listing of job opportunities and possibly a way to apply
+
+Bid Request Section
+  • Include a form to submit for bids that collects contact information and some details about the job
+
+
+
