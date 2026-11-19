@@ -24,7 +24,7 @@ Upload the contents of this folder (not just the ZIP file) to a static website h
 1. Publish to a temporary URL and test both forms.
 2. Complete FormSubmit's email confirmation.
 3. Confirm that the business is comfortable with the wording and imagery.
-4. Add actual job openings when the company is ready to advertise them.
+4. Confirm the Electrician listing is current before publishing.
 5. Consider adding real project photos and a privacy notice describing the handling of submitted contact details and resumes.
 
-The website does not claim that any specific job vacancy is currently open. It invites visitors to ask about current openings and submit a general application.
+The Careers section lists the Electrician position. Visitors can use the employment form to apply for that role or submit a general application.
